@@ -1,4 +1,0 @@
-- response headers
-- storage
-- page source
-- downloaded files
