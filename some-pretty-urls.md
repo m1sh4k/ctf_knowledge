@@ -9,3 +9,6 @@ good practice
 
 https://2019.hackerdom.ru/
 more practice
+
+https://vk.com/topic-44772930_28627303
+mephi useful links
