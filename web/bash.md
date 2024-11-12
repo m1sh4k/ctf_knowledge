@@ -9,3 +9,8 @@ command1 && command2
 `ur_commands_here`
 $(ur_commands_here)
 ```
+
+##### execute password-required comman in 1 line
+```bash
+echo "password" | sudo -S apt update
+```
